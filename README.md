@@ -1,5 +1,10 @@
-### Hi there 👋
+### hi 
+## i'm sam
+# this is my profile on git hub dot com
+welcome
 
+## About Me
+I'm a mechanical engineer, so I'm mainly using this to share or project documentation, i.e. CAD files. Computer code scares me, and I fully support a butlerian jihad.
 <!--
 **sgrant41/sgrant41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
